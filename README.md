@@ -17,7 +17,7 @@
 - Projects related to enhancing user experiences
 
 ## 📫 How to reach me:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: niteshgarhewal16121@gmail.com
 - **LinkedIn**: [linkedin.com/in/nitesh-kumar-garhewal](https://linkedin.com/in/nitesh-kumar-garhewal)
 - **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 
