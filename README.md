@@ -19,7 +19,6 @@
 ## 📫 How to reach me:
 - **Email**: niteshgarhewal16121@gmail.com
 - **LinkedIn**: [linkedin.com/in/nitesh-kumar-garhewal](https://linkedin.com/in/nitesh-kumar-garhewal)
-- **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 
 ## 😄 Pronouns:
 - He/Him
