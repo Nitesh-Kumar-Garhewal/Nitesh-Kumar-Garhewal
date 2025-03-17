@@ -1,13 +1,14 @@
 # 👋 Hi, I’m @Nitesh-Kumar-Garhewal
 
 ## 👀 I’m interested in:
+- Java Developer
 - Full Stack Web Development
-- JavaScript Frameworks (React, Node.js)
+- JavaScript Frameworks (React js)
 - Databases (SQL, MongoDB)
 - Cloud Services and Deployment
 
 ## 🌱 I’m currently learning:
-- Advanced concepts in React and Node.js
+- Advanced concepts in React js
 - Modern DevOps practices
 - Cloud platforms (AWS, Azure)
 
@@ -18,8 +19,8 @@
 
 ## 📫 How to reach me:
 - **Email**: niteshgarhewal16121@gmail.com
-- **LinkedIn**: [linkedin.com/in/nitesh-kumar-garhewal](https://linkedin.com/in/nitesh-kumar-garhewal)
-
+- **LinkedIn**: [https://www.linkedin.com/in/nitesh-kumar-garhewal-59b981230/]
+  
 ## 😄 Pronouns:
 - He/Him
 
