@@ -4,8 +4,8 @@
 
 ## 💼 Professional Experience
 
-* Full Stack Developer at Samskriti Foundation
-* Former Java Full Stack Developer Trainee at SEED Infotech
+* Full Stack Developer at Samskriti Foundation, Karnataka
+* Former Java Full Stack Developer Trainee at SEED Infotech, Pune
 * Experienced in designing RESTful APIs, database optimization, authentication systems, and responsive web applications
 
 ## 🛠️ Tech Stack
@@ -46,28 +46,15 @@
 
 ## 🌱 Currently Learning
 
-* Advanced React Patterns
+* AI/ML Fundamentals
+* Generative AI and Large Language Models (LLMs)
 * System Design Fundamentals
 * Cloud Technologies (AWS)
-* CI/CD and DevOps Best Practices
-
-## 🚀 Featured Projects
-
-### Web-Based Quiz Platform
-
-* Built using Spring Boot, React.js, MySQL, JWT Authentication, and REST APIs
-* Implemented role-based access control and secure authentication
-* Designed scalable database architecture and API-driven frontend integration
-
-### Task Management Microservice
-
-* Developed with Spring Boot, MongoDB, Docker, and REST APIs
-* Implemented CRUD operations, exception handling, and containerized deployment
+* CI/CD Pipelines and DevOps Best Practices
 
 ## 💻 Coding Profiles
 
 * LeetCode: https://leetcode.com/u/nitesh0000/
-* GeeksforGeeks: Add your profile link here
 
 ## 📫 Connect With Me
 
