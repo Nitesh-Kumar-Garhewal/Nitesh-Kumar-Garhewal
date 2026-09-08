@@ -8,15 +8,30 @@ Currently working as a Full Stack Developer, where I design and develop REST API
 
 ### 🚀 What I Work With
 
-**Backend:** Java, Spring Boot, Spring Security, Hibernate, Python, FastAPI, REST APIs, Microservices
+* **Backend**
 
-**Frontend:** React.js, TypeScript, JavaScript, HTML5, CSS3
+  * Java, Spring Boot, Spring Security, Hibernate
+  * Python, FastAPI, REST APIs, Microservices
 
-**Databases:** MySQL, MongoDB
+* **Frontend**
 
-**DevOps & Tools:** Docker, Git, GitHub Actions, Maven, AWS, Postman, Swagger/OpenAPI
+  * React.js, TypeScript, JavaScript
+  * HTML5, CSS3
 
-**AI:** LangGraph, LLM applications, AI-powered workflows, agentic systems
+* **Databases**
+
+  * MySQL, MongoDB
+
+* **DevOps & Tools**
+
+  * Docker, Git, GitHub Actions, Maven
+  * AWS, Postman, Swagger/OpenAPI
+
+* **AI & LLM**
+
+  * LangGraph, LLM Applications
+  * AI-Powered Workflows, Agentic Systems
+
 
 ### ⭐ Featured Projects
 
