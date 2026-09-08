@@ -1,66 +1,57 @@
-# 👋 Hi, I'm Nitesh Kumar Garhewal
+# Hi, I'm Nitesh Kumar Garhewal 👋
 
-🚀 Full Stack Developer with experience in building scalable web applications using Java, Spring Boot, React.js, MySQL, and REST APIs. Passionate about backend engineering, modern web technologies, and solving real-world problems through software.
+### Software Engineer | Java & Python Backend | Full Stack | AI Applications
 
-## 💼 Professional Experience
+I'm a Software Engineer with hands-on experience building production web applications and backend systems using **Java, Spring Boot, Python, FastAPI, React, REST APIs, and relational databases**.
 
-* Full Stack Developer at Samskriti Foundation, Karnataka
-* Former Java Full Stack Developer Trainee at SEED Infotech, Pune
-* Experienced in designing RESTful APIs, database optimization, authentication systems, and responsive web applications
+Currently working as a Full Stack Developer, where I design and develop REST APIs, optimize database queries, implement backend features, debug production issues, and build responsive React applications.
 
-## 🛠️ Tech Stack
+### 🚀 What I Work With
 
-### Backend
+**Backend:** Java, Spring Boot, Spring Security, Hibernate, Python, FastAPI, REST APIs, Microservices
 
-* Java 8+
-* Spring Boot
-* Spring MVC
-* Spring Security
-* Hibernate
-* JDBC
-* REST APIs
-* Microservices
+**Frontend:** React.js, TypeScript, JavaScript, HTML5, CSS3
 
-### Frontend
+**Databases:** MySQL, MongoDB
 
-* React.js
-* JavaScript
-* HTML5
-* CSS3
-* TypeScript
+**DevOps & Tools:** Docker, Git, GitHub Actions, Maven, AWS, Postman, Swagger/OpenAPI
 
-### Databases
+**AI:** LangGraph, LLM applications, AI-powered workflows, agentic systems
 
-* MySQL
-* MongoDB
-* Oracle DB
+### ⭐ Featured Projects
 
-### DevOps & Tools
+* **ScreenAI – Agentic Resume Screening Platform**
 
-* Docker
-* Git & GitHub
-* Jenkins
-* Postman
-* Swagger/OpenAPI
-* AWS (Basics)
+  * Multi-agent AI platform for explainable resume screening and candidate-job matching.
+  * Built with Python, FastAPI, LangGraph and React.
 
-## 🌱 Currently Learning
+* **TechStack Explorer**
 
-* AI/ML Fundamentals
-* Generative AI and Large Language Models (LLMs)
-* System Design Fundamentals
-* Cloud Technologies (AWS)
-* CI/CD Pipelines and DevOps Best Practices
+  * Graph-powered technology exploration application.
+  * Built with Spring Boot, React and CognoDB.
 
-## 💻 Coding Profiles
+* **Web-Based Quiz Platform**
 
+  * Full-stack quiz platform with authentication, role-based access control and real-time scoring.
+  * Built with Java, Spring Boot, React and MySQL.
+
+### 💼 Professional Experience
+
+**Full Stack Developer**
+
+Working on production full-stack applications involving backend API development, database optimization, frontend development, debugging, and feature implementation.
+
+### 🎯 Currently Focused On
+
+* Backend Engineering
+* System Design
+* Distributed Systems
+* AI/LLM Applications
+* Cloud & DevOps
+* Performance Optimization
+
+### 📫 Connect
+
+* EMail: niteshgarhewal16121@gmail.com
+* LinkedIn: https://linkedin.com/in/nitesh-kumar-garhewal-59b981230/
 * LeetCode: https://leetcode.com/u/nitesh0000/
-
-## 📫 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/nitesh-kumar-garhewal-59b981230/
-* Email: [niteshgarhewal16121@gmail.com](mailto:niteshgarhewal16121@gmail.com)
-
-## ⚡ Fun Fact
-
-I enjoy building side projects, exploring new technologies, and continuously improving my software engineering skills.
